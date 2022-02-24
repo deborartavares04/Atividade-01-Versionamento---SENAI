@@ -39,3 +39,4 @@ Passo a passo dos comandos utilizados:
 • git commit "alteração arquivo 02" 
 • git status
 • git push -u origin master
+• criação do arquivo README.md no repositório remoto
