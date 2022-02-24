@@ -1,5 +1,5 @@
 # Atividade-01-Versionamento---SENAI
-Atividade 01 referente a UC7 - Versionamento, SENAI.
+Atividade 01 referente a UC7 - Versionamento, SENAI. - Curso Programador Back End
 
 Propósitos da atividade :
 Acessar o site https://git-scm.com/download/win.
@@ -27,9 +27,15 @@ Passo a passo dos comandos utilizados:
 • git commit -m "Alteração realizada no arquivo 01"
 • git add .
 • git status
-• 
-•
-•
-•
-•
-•
+• git commit -m "Arquivo alterado"
+• git push -u origin master
+• git add "Arquivo 02"
+• git status
+• git commit -m "arquivo 02 publicado"
+• git push -u origin master
+• git status
+• git add .
+• git status
+• git commit "alteração arquivo 02" 
+• git status
+• git push -u origin master
